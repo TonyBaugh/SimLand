@@ -1,11 +1,12 @@
 package com.simland;
 
-
 public class App {
-    public static void main(String[] args) throws Exception {
-        new SimWindow();
-        
+    public static void main(String[] args) {
+        // Start simulation
+        new SimWindow(); 
     }
+
+    
 }
 
 
